@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+dwSWrVTOZEeLYKdVDmwqcG6K4YibR/oiOHnNfzXGu8=",
+  "Source": "WebApplication5",
+  "BasePath": "_content/WebApplication5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication5\\wwwroot",
+      "Source": "WebApplication5",
+      "ContentRoot": "C:\\Users\\Alexey Eltcov\\Visual Studio\\source\\repos\\WebApplication5\\WebApplication5\\wwwroot\\",
+      "BasePath": "_content/WebApplication5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
